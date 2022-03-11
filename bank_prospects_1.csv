@@ -1,0 +1,69 @@
+Age,Salary,Gender,Country,Purchased
+20,220000,Female,unknown,N
+25,370000,Female,UK,N
+20,,Male,UK,N
+,,Female,Hong Kong,N
+,300000,Male,Australia,N
+34,180000,Male,UK,Y
+33,340000,Female,France,Y
+29,210000,Male,UK,Y
+34,390000,Female,Italy,N
+32,370000,Female,Nigeria,Y
+31,330000,Female,unknown,N
+34,340000,Male,France,N
+,310000,Female,Australia,Y
+35,340000,Female,Nigeria,Y
+22,230000,Male,Australia,Y
+30,,Male,India,Y
+30,400000,Male,Nigeria,N
+29,330000,Male,Russia,N
+29,270000,Male,unknown,N
+21,360000,Male,France,N
+31,390000,Male,UK,Y
+22,180000,Male,UK,Y
+23,220000,Female,unknown,N
+27,320000,Female,Hong Kong,N
+,220000,Male,Hong Kong,N
+35,400000,Female,Nigeria,N
+,230000,Female,UK,Y
+,270000,Female,Nigeria,N
+27,370000,Female,India,Y
+35,320000,Female,Nigeria,Y
+25,370000,Female,Russia,Y
+32,230000,Male,unknown,Y
+35,220000,Male,Italy,Y
+29,210000,Male,UK,N
+27,240000,Female,India,Y
+,210000,Female,India,Y
+27,310000,Male,France,N
+28,240000,Male,unknown,N
+24,360000,Female,Hong Kong,Y
+,230000,Female,Hong Kong,Y
+21,220000,Female,Australia,Y
+23,400000,Male,Russia,Y
+25,290000,Female,Australia,Y
+28,340000,Female,Italy,Y
+30,280000,Male,UK,Y
+,330000,Male,Russia,N
+32,240000,Male,Nigeria,Y
+28,210000,Female,Australia,N
+34,320000,Male,Hong Kong,N
+25,370000,Female,Italy,Y
+25,,Female,Russia,N
+,340000,Female,Hong Kong,N
+19,210000,Female,Hong Kong,N
+27,,Male,Italy,N
+27,240000,Female,India,Y
+,280000,Male,India,Y
+19,,Male,Russia,N
+29,370000,Male,France,Y
+31,360000,Male,Hong Kong,N
+32,230000,Female,unknown,N
+25,,Female,Russia,N
+35,,Female,Nigeria,Y
+21,400000,Female,Italy,Y
+24,330000,Male,Nigeria,N
+30,300000,Female,Russia,N
+35,400000,Male,unknown,N
+28,210000,Female,Australia,N
+34,310000,Male,Hong Kong,N
